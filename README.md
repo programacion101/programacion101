@@ -14,7 +14,7 @@ Para comenzar, te recomiendo clonar este repositorio y seguir los tutoriales en 
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/programacion_desde_cero/programacion_desde_cero.git
+   git clone https://github.com/programming-from-scratch/programming-from-scratch.git
 
 2. **Navegar a la Carpeta del Proyecto**:
    ```bash
