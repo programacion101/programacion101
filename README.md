@@ -18,7 +18,7 @@ Para comenzar, te recomiendo clonar este repositorio y seguir los tutoriales en 
 
 2. **Navegar a la Carpeta del Proyecto**:
    ```bash
-   cd programacion_desde_cero
+   cd programming-from-scratch
 
 3. **Explorar los Archivos**: Revisa los diferentes directorios y archivos para ver el contenido.
 
